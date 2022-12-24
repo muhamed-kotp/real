@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "name": "Gilet ",
+      "name": "Hood",
       "img": "https://www.linkpicture.com/q/shopC1.jpg",
       "price": 300,
       "count": 8,
@@ -85,10 +85,10 @@
     },
     {
       "name": "Omar",
-      "age": "26",
+      "age": 23,
       "mail": "Omar2025@gmail.com",
       "pass": "12345",
-      "role": "admin",
+      "role": "member",
       "gender": "male",
       "id": 2
     },
@@ -102,6 +102,15 @@
       "id": 3
     },
     {
+      "name": "Shaymaa",
+      "age": 20,
+      "mail": "shaymaa@gmail.com",
+      "pass": "12345",
+      "role": "member",
+      "gender": "female",
+      "id": 4
+    },
+    {
       "name": "Asmaa",
       "age": 39,
       "mail": "asmaa2020@gmail.com",
@@ -109,13 +118,22 @@
       "role": "member",
       "gender": "female",
       "id": 5
+    },
+    {
+      "name": "Youmna",
+      "age": "5",
+      "role": "member",
+      "mail": "youmna.amro2017@gmail.com",
+      "pass": "12345",
+      "gender": "femail",
+      "id": 6
     }
   ],
   "signinUser": [
     {
-      "name": "",
-      "mail": "",
-      "pass": "",
+      "name": "Kotp",
+      "mail": "mohamed.kotp@gmail.com",
+      "pass": "12345",
       "id": 1
     }
   ]
